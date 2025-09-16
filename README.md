@@ -41,7 +41,7 @@ The project investigates the performance of a **passive Dynamic Vibration Absorb
 If you use this repository in your work, please cite the project report:
 
 ```
-Ganga Nair B, "Dynamic Vibration Absorber with MR Damper," NIT Calicut, 2022.
+Ganga Nair B, Nathan Anthony, Sebin Sabu, Akshay Kumar "Dynamic Vibration Absorber with MR Damper," NIT Calicut, 2022.
 ```
 
 ---
