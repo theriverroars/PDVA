@@ -30,12 +30,6 @@ The project investigates the performance of a **passive Dynamic Vibration Absorb
 * Identified performance trade-offs in PDVA design.
 * Provided both **experimental insights** and **simulation validation** for future research in smart vibration control systems.
 
-## 📌 How to Use
-
-1. Download `Cleaned Data.zip` for analysis.
-2. Open the **Simulink file** to run mathematical simulations.
-3. Refer to **Report.pdf** for detailed design, modeling, and results.
-
 ## 📝 Citation
 
 If you use this repository in your work, please cite the project report:
