@@ -43,7 +43,3 @@ If you use this repository in your work, please cite the project report:
 ```
 Ganga Nair B, Nathan Anthony, Sebin Sabu, Akshay Kumar "Dynamic Vibration Absorber with MR Damper," NIT Calicut, 2022.
 ```
-
----
-
-Do you want me to make it more **academic/paper-style** (with references, equations, etc.) or more **portfolio-style** (to showcase your work to recruiters)?
